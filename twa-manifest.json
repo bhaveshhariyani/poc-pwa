@@ -1,0 +1,10 @@
+{
+    "packageId": "com.example.mytwaapp",
+    "hostName": "your-website.com",
+    "launchUrl": "/",
+    "name": "POC",
+    "themeColor": "#FF5733",
+    "navigationColor": "#FF5733",
+    "enableNotifications": false,
+    "shortName": "POC"
+  }
